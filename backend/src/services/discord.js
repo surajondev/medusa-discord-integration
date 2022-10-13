@@ -3,7 +3,7 @@ import {NotificationService} from 'medusa-interfaces'
 
 class DiscordNotification extends NotificationService {
     static identifier = "discord-notification";
-    constructor({ orderService }, options) {
+    constructor({ orderService }) {
       super();
       this.orderService_ = orderService;
     }
