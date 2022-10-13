@@ -22,7 +22,7 @@ When the order placed from the Medusa's storefront. A message will be send to th
 
 *Message in Discord Server*
 
-![image](https://user-images.githubusercontent.com/67496096/193768298-cd1e3e51-36e9-40eb-b88f-3c0080797d79.png)
+![image](https://user-images.githubusercontent.com/67496096/195573733-85d54eb0-85c0-4c28-b51e-acb2b07395f8.png)
 
 # Setup Project
 
